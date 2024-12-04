@@ -4,20 +4,20 @@ This repository showcases a series of data analysis projects using Pandas, Seabo
 
 Project Highlights
 
-Stores Performance Analysis
+1) Stores Performance Analysis
 
 Sales and Revenue Insights: Analyzed store-level sales data to identify top-performing and underperforming locations.
 Seasonality Trends: Visualized seasonal and regional sales fluctuations using time series plots and heatmaps.
 Decision Support: Recommended strategies to optimize product placement and operational hours based on peak activity.
 
-Shopping Trends Analysis
+2) Shopping Trends Analysis
 
 Customer Purchase Behavior: Investigated patterns in shopping frequency, average spend, and basket size.
 Product Insights: Identified best-selling products and categories contributing the most to revenue.
 Trend Visualization: Used Seaborn to plot trends in shopping behavior over time and during promotional events.
 Segmentation: Grouped customers into segments (e.g., frequent shoppers, high spenders) for targeted marketing campaigns.
 
-Churn Modelling Analysis
+3) Churn Modelling Analysis
 
 EDA and Visualization: Analyzed demographic and transactional factors influencing churn using pairplots and correlation heatmaps.
 Feature Engineering: Created derived features like tenure, frequency of complaints.
